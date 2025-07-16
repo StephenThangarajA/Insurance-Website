@@ -4,6 +4,12 @@
 
 ---
 
+## 🎥 Working Demo
+
+https://investmenthub.netlify.app/
+
+---
+
 ## ✨ Features
 
 - 📊 Real-time investment analytics
